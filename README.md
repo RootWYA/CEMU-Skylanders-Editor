@@ -27,3 +27,4 @@ Not Implemented (Not Supported Yet)
 Included in this Release
 
     SkyEditor.exe — The fully self-contained standalone application.
+Link for ids "https://github.com/Texthead1/Skylander-IDs"
